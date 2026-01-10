@@ -1,11 +1,13 @@
 <div align="center">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
+
 <h1>👋 Malik Dev</h1>
-<h3>IT Student | Software Development with Networking</h3>
+<h3>IT Student | Software Development & Networking Enthusiast</h3>
 
 <p>
 I'm an IT student focused on building strong fundamentals in software development,<br>
-with a growing interest in networking and system-level concepts.
+with a growing interest in networking, databases, and system-level concepts.
 </p>
 
 </div>
@@ -14,24 +16,33 @@ with a growing interest in networking and system-level concepts.
 
 ### 🧰 Skills & Learning
 
-**Programming**
+**Programming & Development**
 - C#
 - Java
 - C++
 - HTML & CSS
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
+- SQL Oracle & MySQL
+
+**Networking & Systems**
 - Networking Fundamentals
-- SQL Oracle
-- MySQL
+- System-level Concepts
 
+**Tools & Platforms**
+- VS Code
+- Git
+- Prablem solving (Updating)
+- حق
 
 ---
 
-### 🎯 Goal
-Build clean, practical projects and grow into a strong software developer with solid networking knowledge.
+### 🎯 Goals
+- Build clean, practical projects  
+- Grow into a strong software developer  
+- Gain solid networking and database knowledge
 
 ---
 
-Always learning.
-And keep Going...
+Always learning.  
+Keep going. 💪
