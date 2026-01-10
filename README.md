@@ -33,8 +33,8 @@ with a growing interest in networking, databases, and system-level concepts.
 - VS Code
 - Git
 - Prablem solving (Updating)
-- حق
 
+  
 ---
 
 ### 🎯 Goals
