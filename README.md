@@ -32,7 +32,8 @@ with a growing interest in networking, databases, and system-level concepts.
 **Tools & Platforms**
 - VS Code
 - Git
-- Prablem solving (Updating)
+- Prablem solving
+- MVVM
 
   
 ---
