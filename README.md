@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
+
 
 <h1>👋 Malik Dev</h1>
 <h3>IT Student | Software Development & Networking Enthusiast</h3>
